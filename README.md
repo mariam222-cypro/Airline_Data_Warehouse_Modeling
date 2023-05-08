@@ -19,7 +19,7 @@ The business has three main processes, and the grain will be measured as follows
 2. Customer care fact, measured per transaction
 3. Flight activity fact, measured per day
 
-There are sixteen dimension tables in three different processes:
+### There are sixteen dimension tables in three different processes:
 
 1. Booking_Channel: Represents the way that passengers book, whether online or through an agent.
 2. Airport: Represents information about the airport, such as its name, ID, and code.
