@@ -45,7 +45,7 @@ The Customer Care fact connects the passenger with the interaction and the surve
 3. The fact will measure the Customer_Feedback_Count (count the number of interactions related to feedback)
 4. The fact will measure the Problem_Severity (severity level of the problem reported by the customer)
 
-### Flight activity fact
+## Flight activity fact
 
 The Flight activity fact connects the flight with the airport, location, route, airplane, flight type, and date.
 
