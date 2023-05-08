@@ -71,9 +71,7 @@ The demonstrative layering methodology includes a layered architecture for the d
 
 1. Data Sources Layer - includes the raw data sources for the Airline System Data, such as CSV files, XML files, or JSON files.
 2. Data Storage Layer - includes the Data Vault schema for storing the raw data from the data sources.
-3. Data Integration Layer - includes the ETL (extract, transform, load) process for integrating the raw data into the Data Vault schema.
 4. Dimensional Modeling Layer - includes the dimensional schema for reporting, querying, and aggregating the data from the Data Vault schema.
-5. Business Intelligence Layer - includes the data visualization and reporting tools for presenting the data to the end-users.
 
 # Conclusion
 In conclusion, the Airline System Data model is designed to support decision-making for the airline company by analyzing the flight activity, reservation process, and customer care interaction. The Data Vault modeling technique is used for storing the raw data, and the dimensional modeling technique is used for reporting and querying the data. The logical and physical design of the data model is presented, and the demonstrative layering methodology is used for designing the layered architecture of the data model.
